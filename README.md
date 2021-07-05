@@ -1,6 +1,7 @@
 # data_analysis_and_mining
 
-## <Python 数据分析与挖掘事件> 作业
+## <Python 数据分析与挖掘事件> 第2版作业
+![book cover](images/python_data_analysis_and_mining.jpeg)
 
 ## 数据
 
