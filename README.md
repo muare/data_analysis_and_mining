@@ -9,6 +9,7 @@
 
 ### 使用
 解压以后
+```bash
 .
 ├── ch10.ipynb
 ├── ch11.ipynb
@@ -32,3 +33,4 @@
     ├── chapter7
     ├── chapter8
     └── chapter99
+```
